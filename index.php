@@ -87,7 +87,7 @@ if (isset($_POST['logout'])) {
     <!-- Navbar Start -->
     <nav class="navbar navbar-expand-lg bg-white navbar-light shadow-sm px-5 py-3 py-lg-0">
         <a href="index.html" class="navbar-brand p-0">
-            <h1 class="m-0 text-primary">CGHS Health Care System</h1>
+        <a href="https://cghs.gov.in/CghsGovIn/faces/ViewPage.xhtml"> <h1 class="m-0 text-primary">CGHS Health Care System</h1></a>
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
@@ -367,7 +367,7 @@ if (isset($_POST['logout'])) {
                         <div class="d-inline-flex align-items-center justify-content-center bg-white rounded-circle mb-4" style="width: 65px; height: 65px;">
                             <i class="fa fa-heartbeat text-primary fs-4"></i>
                         </div>
-                        <h4 class="mb-3">Cardiology</h4>
+                        <a href="https://cghs.gov.in/CghsGovIn/faces/ViewPage.xhtml">    <h4 class="mb-3">Cardiology</h4></a>
                         <p class="mb-4">Cardiology is a branch of medicine that deals with disorders of the heart and the cardiovascular system.</p>
                         <a class="btn" href=""><i class="fa fa-plus text-primary me-3"></i>Read More</a>
                     </div>
@@ -377,7 +377,7 @@ if (isset($_POST['logout'])) {
                         <div class="d-inline-flex align-items-center justify-content-center bg-white rounded-circle mb-4" style="width: 65px; height: 65px;">
                             <i class="fa fa-x-ray text-primary fs-4"></i>
                         </div>
-                        <h4 class="mb-3">Pulmonary</h4>
+                        <a href="https://cghs.gov.in/CghsGovIn/faces/ViewPage.xhtml">   <h4 class="mb-3">Pulmonary</h4></a>
                         <p class="mb-4">it is medicine is a broad spqciality in medicine.It deals primarily with diseaases afflicting the lungs.</p>
                         <a class="btn" href=""><i class="fa fa-plus text-primary me-3"></i>Read More</a>
                     </div>
@@ -387,7 +387,7 @@ if (isset($_POST['logout'])) {
                         <div class="d-inline-flex align-items-center justify-content-center bg-white rounded-circle mb-4" style="width: 65px; height: 65px;">
                             <i class="fa fa-brain text-primary fs-4"></i>
                         </div>
-                        <h4 class="mb-3">Neurology</h4>
+                        <a href="https://cghs.gov.in/CghsGovIn/faces/ViewPage.xhtml">     <h4 class="mb-3">Neurology</h4></a>
                         <p class="mb-4">This is the branch of medicine concerned with the study and treatment of the nervous system.</p>
                         <a class="btn" href=""><i class="fa fa-plus text-primary me-3"></i>Read More</a>
                     </div>
@@ -397,7 +397,7 @@ if (isset($_POST['logout'])) {
                         <div class="d-inline-flex align-items-center justify-content-center bg-white rounded-circle mb-4" style="width: 65px; height: 65px;">
                             <i class="fa fa-wheelchair text-primary fs-4"></i>
                         </div>
-                        <h4 class="mb-3">Orthopedics</h4>
+                        <a href="https://cghs.gov.in/CghsGovIn/faces/ViewPage.xhtml">  <h4 class="mb-3">Orthopedics</h4></a>
                         <p class="mb-4">Orthopedics focuses on treating the musculoskeletal system like muscles,bones,joints,ligaments etc.</p>
                         <a class="btn" href=""><i class="fa fa-plus text-primary me-3"></i>Read More</a>
                     </div>
@@ -407,7 +407,7 @@ if (isset($_POST['logout'])) {
                         <div class="d-inline-flex align-items-center justify-content-center bg-white rounded-circle mb-4" style="width: 65px; height: 65px;">
                             <i class="fa fa-tooth text-primary fs-4"></i>
                         </div>
-                        <h4 class="mb-3">Dental Surgery</h4>
+                        <a href="https://cghs.gov.in/CghsGovIn/faces/ViewPage.xhtml">     <h4 class="mb-3">Dental Surgery</h4> </a>
                         <p class="mb-4">Dental surgery is any of a number of medical procedures that involves artificially modifying dentition.</p>
                         <a class="btn" href=""><i class="fa fa-plus text-primary me-3"></i>Read More</a>
                     </div>
@@ -417,7 +417,7 @@ if (isset($_POST['logout'])) {
                         <div class="d-inline-flex align-items-center justify-content-center bg-white rounded-circle mb-4" style="width: 65px; height: 65px;">
                             <i class="fa fa-vials text-primary fs-4"></i>
                         </div>
-                        <h4 class="mb-3">Laboratory</h4>
+                        <a href="https://cghs.gov.in/CghsGovIn/faces/ViewPage.xhtml">       <h4 class="mb-3">Laboratory</h4> </a>
                         <p class="mb-4">Laboratory  is in charge of the safety management of the labpratory concerned.</p>
                         <a class="btn" href=""><i class="fa fa-plus text-primary me-3"></i>Read More</a>
                     </div>
