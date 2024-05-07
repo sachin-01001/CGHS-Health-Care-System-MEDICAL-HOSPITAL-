@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>medwin cares</title>
+    <title>CGHS Health Care System</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="Free HTML Templates" name="keywords">
     <meta content="Free HTML Templates" name="description">
@@ -59,10 +59,10 @@
             <div class="col-md-6 text-center text-lg-end">
                 <div class="position-relative d-inline-flex align-items-center bg-primary text-white top-shape px-5">
                     <div class="me-3 pe-3 border-end py-2">
-                        <p class="m-0"><i class="fa fa-envelope-open me-2"></i>medwincares@gmail.com</p>
+                        <p class="m-0"><i class="fa fa-envelope-open me-2"></i>Shiwangsharma3@gmail.com</p>
                     </div>
                     <div class="py-2">
-                        <p class="m-0"><i class="fa fa-phone-alt me-2"></i>+91 78765 56787</p>
+                        <p class="m-0"><i class="fa fa-phone-alt me-2"></i>+91 8104779152</p>
                     </div>
                 </div>
             </div>
@@ -74,7 +74,7 @@
     <!-- Navbar Start -->
     <nav class="navbar navbar-expand-lg bg-white navbar-light shadow-sm px-5 py-3 py-lg-0">
         <a href="index.html" class="navbar-brand p-0">
-            <h1 class="m-0 text-primary">Medwin Cares</h1>
+            <h1 class="m-0 text-primary">CGHS Health Care System</h1>
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
@@ -172,7 +172,7 @@
                         <div class="d-inline-flex align-items-center justify-content-center bg-white rounded-circle mb-4" style="width: 65px; height: 65px;">
                             <i class="fa fa-vials text-primary fs-4"></i>
                         </div>
-                        <h4 class="mb-3">Laboratory</h4>
+                        <h4 class="mb-3"><a href="claim_form.php">CLAIM Process </a></h4>
                         <p class="mb-4">Laboratory  is in charge of the safety management of the labpratory concerned.</p>
                         <a class="btn" href=""><i class="fa fa-plus text-primary me-3"></i>Read More</a>
                     </div>
